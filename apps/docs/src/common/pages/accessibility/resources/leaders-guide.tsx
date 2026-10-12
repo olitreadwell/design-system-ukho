@@ -238,7 +238,7 @@ const Page: FC<PageProps> = () => (
     <h4>In-depth:</h4>
     <p><A href="https://www.edx.org/course/web-accessibility-introduction">Web Accessibility Introduction (edX)</A> is a strong foundation in digital accessibility to make your website and apps work well for people with disabilities and meet international standards. (4 weeks, 4 to 5 hours a week, self-paced)</p>
     <h2 id="accessibility-and-your-product">Accessibility and your product</h2>
-    <p>Your product must be accessible to comply with <A href="https://www.gov.uk/service-manual/service-standard/point-5-make-sure-everyone-can-use-the-service">point 5 ot the government Service Standard</A>: Make sure everyone can use the service.</p>
+    <p>Your product must be accessible to comply with <A href="https://www.gov.uk/service-manual/service-standard/point-5-make-sure-everyone-can-use-the-service">point 5 of the government Service Standard</A>: Make sure everyone can use the service.</p>
     <h3 id="the-business-case-for-accessibility">The business case for accessibility</h3>
     <p>Initial investment in making services, products and documents accessible can save time and money later in development and production.</p>
     <p>The easier your products are for everyone to use, the less time you will spend answering enquiries and providing alternative formats. Using accessible formats and language can reduce the need for helplines and call centres.</p>

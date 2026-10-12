@@ -46,7 +46,7 @@ const Page: FC<PageProps> = () => (
       </div>
     </div>
     <br />
-    <h3>Visability and contrast</h3>
+    <h3>Visibility and contrast</h3>
     <p>Make sure that focus indication is easily visible and clear to follow for all users. Aim for a contrast ratio of 3:1 between the focus indication box and:</p>
     <ul>
       <li>the surrounding content</li>

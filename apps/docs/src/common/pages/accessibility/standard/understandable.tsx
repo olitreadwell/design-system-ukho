@@ -216,7 +216,7 @@ const Page: FC<PageProps> = () => (
     <p>Do not require the user to solve a puzzle, recall information or transcribe anything to register, log in, or authenticate a session.</p>
     <p><A href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-minimum">Understanding Success Criterion 3.3.8: Accessible Authentication</A></p>
     <h4>Implementation guidance</h4>
-    <p>There must be an easy way for people to register, log in or authenticate a session that does not rely on memorising a password, transcribing characters from one place to another, using correct spelling, carrying out any calclulations or solving any puzzles.</p>
+    <p>There must be an easy way for people to register, log in or authenticate a session that does not rely on memorising a password, transcribing characters from one place to another, using correct spelling, carrying out any calculations or solving any puzzles.</p>
     <p>Allow third-party password managers to fill in the password field automatically or allow the user to manually copy and paste the password.</p>
     <p>Ensure it is possible to complete any two-factor authentication without the need to transcribe characters from one place to another.</p>
     <h4>How to test with a visual check</h4>

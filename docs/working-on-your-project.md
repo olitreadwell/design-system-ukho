@@ -53,7 +53,7 @@ pnpm install @{{{ dashCase name }}}/your-new-package
 ```
 
 Under the hood, this will create a symlink so you need not worry about
-updates. This helps when working on mutliple packages at the same time.
+updates. This helps when working on multiple packages at the same time.
 
 
 Your documentation

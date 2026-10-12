@@ -62,7 +62,7 @@ const Page: FC<PageProps> = () => (
       </div>
       <div className="govuk-grid-column-one-half">
         <img src={ddatEventsImage} alt="Screenshot of a Home Office 'Digital, Data and Technology Together' events page" className="image-examples" />
-        <span className="image-caption">Digital, Data and Technolgy (DDaT) Together page on homeoffice.gov.uk</span>
+        <span className="image-caption">Digital, Data and Technology (DDaT) Together page on homeoffice.gov.uk</span>
       </div>
     </div>
     <hr className="govuk-section-break govuk-section-break--xl govuk-section-break--visible" />
