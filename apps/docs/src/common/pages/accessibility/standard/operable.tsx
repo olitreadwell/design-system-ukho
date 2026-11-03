@@ -48,7 +48,7 @@ const Page: FC<PageProps> = () => (
       <li><A href="#rr2.4.2">2.4.2 - Page title</A></li>
       <li><A href="#rr2.4.3">2.4.3 - Focus order</A></li>
       <li><A href="#rr2.4.4">2.4.4 - Link purpose in context</A></li>
-      <li><A href="#rr2.4.5">2.4.5 - Mulitple ways</A></li>
+      <li><A href="#rr2.4.5">2.4.5 - Multiple ways</A></li>
       <li><A href="#rr2.4.6">2.4.6 - Headings and labels</A></li>
       <li><A href="#rr2.4.7">2.4.7 - Focus visible</A></li>
       <li><A href="#rr2.4.11">2.4.11 - Focus not obscured</A></li>

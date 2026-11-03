@@ -32,7 +32,7 @@ const Page: FC<PageProps> = ({}) => (
     </h1>
 
     <h2 className="govuk-heading-l">Use of images</h2>
-    <p className="govuk-body">Avoid unecessary decoration. Only use images when research indicates that it would be helpful to users.</p>
+    <p className="govuk-body">Avoid unnecessary decoration. Only use images when research indicates that it would be helpful to users.</p>
 
     <p className="govuk-body"><A href="#Illustrations or representative imagery">Illustrations</A> can help users to understand:</p>
     <ul className="govuk-list govuk-list--bullet">
@@ -96,7 +96,7 @@ const Page: FC<PageProps> = ({}) => (
       <div className="govuk-grid-row">
         <div className="govuk-grid-column-one-half">
           <span className="govuk-heading-m">Do</span>
-          <img src={applyExample6} alt="A person leading a group discussion infront of a whiteboard." className="image-examples" />
+          <img src={applyExample6} alt="A person leading a group discussion in front of a whiteboard." className="image-examples" />
           <span className="image-caption" style={{ marginTop: "1em" }}>Do focus on one key element</span>
         </div>
         <div className="govuk-grid-column-one-half">

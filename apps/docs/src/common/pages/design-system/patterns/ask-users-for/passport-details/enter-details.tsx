@@ -91,16 +91,16 @@ const Page: FC<PageProps> = () => (
         <li>RKS - Republic of Kosovo</li>
         <li>EUE - European Union</li>
         <li>UNO - United Nations Organization</li>
-        <li>UNA - United Nations specialized agencey</li>
+        <li>UNA - United Nations specialized agency</li>
         <li>UNK - Resident of Kosovo to whom a travel document has been issued by the United Nations Interim Administration Mission in Kosovo</li>
         <li>XBA - African Development Bank</li>
         <li>XIM - African Export-Import Bank</li>
-        <li>XCC - Carribean Community or one of its emmisaries</li>
+        <li>XCC - Caribbean Community or one of its emissaries</li>
         <li>XCE - Council of Europe</li>
-        <li>XCO - Common Market for Eastern and Southern Africe</li>
+        <li>XCO - Common Market for Eastern and Southern Africa</li>
         <li>XEC - Economic Community of West African States</li>
         <li>XPO - International Criminal Police Organization</li>
-        <li>XES - Organization of Eastern Carribean States</li>
+        <li>XES - Organization of Eastern Caribbean States</li>
         <li>XMP - Parliamentary Assembly of the Mediterranean</li>
         <li>XOM - Sovereign Military Order of Malta or one of its emissaries</li>
         <li>XDC - Southern African Development Community</li>
@@ -175,16 +175,16 @@ const Page: FC<PageProps> = () => (
         <li>RKS - Republic of Kosovo</li>
         <li>EUE - European Union</li>
         <li>UNO - United Nations Organization</li>
-        <li>UNA - United Nations specialized agencey</li>
+        <li>UNA - United Nations specialized agency</li>
         <li>UNK - Resident of Kosovo to whom a travel document has been issued by the United Nations Interim Administration Mission in Kosovo</li>
         <li>XBA - African Development Bank</li>
         <li>XIM - African Export-Import Bank</li>
-        <li>XCC - Carribean Community or one of its emmisaries</li>
+        <li>XCC - Caribbean Community or one of its emissaries</li>
         <li>XCE - Council of Europe</li>
-        <li>XCO - Common Market for Eastern and Southern Africe</li>
+        <li>XCO - Common Market for Eastern and Southern Africa</li>
         <li>XEC - Economic Community of West African States</li>
         <li>XPO - International Criminal Police Organization</li>
-        <li>XES - Organization of Eastern Carribean States</li>
+        <li>XES - Organization of Eastern Caribbean States</li>
         <li>XMP - Parliamentary Assembly of the Mediterranean</li>
         <li>XOM - Sovereign Military Order of Malta or one of its emissaries</li>
         <li>XDC - Southern African Development Community</li>

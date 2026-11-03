@@ -70,7 +70,7 @@ const Page: FC<PageProps> = () => (
 
     <h2>Helping everyone</h2>
     <p>All users benefit from clear, descriptive error messages that are used consistently.</p>
-    <p>Good error messages can stop people from breaking the law or missing a necesssary financial transaction -
+    <p>Good error messages can stop people from breaking the law or missing a necessary financial transaction -
       things that can have serious consequences.</p>
     <p>People are often stressed when they make an error, so using clear language and design for your error
       messaging is essential.</p>
